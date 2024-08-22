@@ -42,7 +42,6 @@ _Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, KPK_
 ## 📫 How to reach me:
 
 - **Email**: yashfafatima717@gmail.com  
-- **Phone**: 03368988895  
 - **LinkedIn**: [Yashfa Fatima](https://www.linkedin.com/in/yashfa-fatima-629616292)  
 - **GitHub**: [YIME1705](https://github.com/YIME1705)
 
