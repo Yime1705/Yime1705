@@ -1,5 +1,7 @@
 # Hi, I'm Yashfa Fatima! 👋
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Yashfa;Second+line+of+text)](https://git.io/typing-svg)
+
 I'm an enthusiastic Cyber Security student at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology with a passion for technology, web development, and design. I'm currently exploring the fascinating world of AI-driven marketing and e-commerce, and I'm always eager to learn and collaborate on exciting projects.
 
 ## 🎓 Education
