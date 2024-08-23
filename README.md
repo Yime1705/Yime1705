@@ -7,17 +7,17 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
+  <a href="https://github.com/Yime1705">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yime1705&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/yime1705">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yime1705&layout=compact&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername">
-    <img align="center" src="https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=radical" />
+  <a href="https://github.com/Yime1705">
+    <img align="center" src="https://streak-stats.demolab.com/?user=Yime1705&theme=radical" />
   </a>
 </p>
 
