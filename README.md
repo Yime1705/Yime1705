@@ -5,17 +5,12 @@
 </p>
  
 
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=radical)](https://git.io/streak-stats)
-![Yashfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/YourGitHubUsername">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/YourGitHubUsername">
+  <a href="https://github.com/yime1705">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
   </a>
 </p>
