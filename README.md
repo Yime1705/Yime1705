@@ -7,7 +7,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yime1705&show_icons=true&theme=radical" alt="Yashfa's GitHub Stats" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yime1705&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
@@ -50,21 +49,6 @@
 - **Complete 2024 Web Development Bootcamp** (in progress) - Udemy
 - **Google Digital Marketing & E-commerce Professional Certificate** - Google
 
-## 🌟 Activities
-
-- **ACM Student GIKI Chapter (Tech Team)**  
-  - Assisted in organizing the All-Pak event.
-  - Revamped the logo for Softcom and collaborated on merch and posters.
-  
-- **Character Building Society (Graphic Designer)**  
-  - Contributed to the TEDx event and designed merchandise and event posters.
-
-- **Literary and Debating Society (Web Developer)**  
-  - Enhanced online presence, participated in marketing campaigns, and organized events.
-
-- **YIB Coding Club (Mentor)**  
-  - Founded YIB Coding Club to empower women in STEM.
-  - Developed a curriculum and mentored members in coding and problem-solving.
 
 ## 📫 How to reach me:
 
