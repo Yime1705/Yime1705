@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+I+am+Yashfa;I+am+just+a+girl+in+tech🎀;I+hope+not+to+die+here" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+I+am+Yashfa;I+am+just+a+girl+in+tech🎀;I+touch+grass" alt="Typing SVG" />
   </a>
 </p>
  
@@ -68,8 +68,10 @@
 
 ## 📫 How to reach me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashfafatima717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/yashfa-fatima-629616292/)
-
-
+<p align="center">
+  <a href="mailto:yashfafatima717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:u2023762@giki.edu.com"><img src="https://img.shields.io/badge/Outlook-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
+  <a href="https://discordapp.com/users/1109798934857142282"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="http://linkedin.com/in/yashfa-fatima-629616292"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 ⚡ **Fun fact**: I'm passionate about blending creativity with technology, whether it's through web development, AI, or graphic design!
