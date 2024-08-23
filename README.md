@@ -1,8 +1,15 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+I+am+Yashfa;I+am+just+a+girl+in+tech🎀;I+touch+grass" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+I+am+Yashfa!;I+am+just+a+girl+in+tech🎀;I+touch+grass+daily" alt="Typing SVG" />
   </a>
 </p>
+
+
+## Fun Fact
+
+<div align="center">
+    Why did CSS call HTML a liar? Because it kept putting words in its `head`!
+</div>
  
 
 ## 📊 GitHub Stats
