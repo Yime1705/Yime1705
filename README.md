@@ -67,7 +67,7 @@ _Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, KPK_
 ## 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashfafatima717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/yashfa-fatima-629616292
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/yashfa-fatima-629616292/)
 
 
 ⚡ **Fun fact**: I'm passionate about blending creativity with technology, whether it's through web development, AI, or graphic design!
