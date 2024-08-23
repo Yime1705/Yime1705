@@ -20,7 +20,7 @@
   <img src="https://streak-stats.demolab.com/?user=Yime1705&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
-## Languages and Tools ⚒️
+## Languages and Tools
 
 ### Languages & Frameworks:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
