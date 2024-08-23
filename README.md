@@ -1,36 +1,7 @@
 # Hi, I'm Yashfa Fatima! 👋
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Yashfa;I+just+a+girl+in+tech🎀;I+hope+not+to+die+here)](https://git.io/typing-svg)
-<h2 align="center">
-  <span class="typewriter">Cybersecurity Enthusiast | Fashion-Tech Innovator</span><br/>
-  <span class="typewriter">Founder of Ruthless Attire and Ray Illustrates</span><br/>
-  <span class="typewriter">Empowering Social Change through Tech & AI</span>
-</h2>
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-.typewriter {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 1.5em;
-  display: inline-block;
-  overflow: hidden;
-  border-right: .15em solid orange;
-  white-space: nowrap;
-  letter-spacing: .15em;
-  animation:
-    typing 3.5s steps(30, end),
-    blink .75s step-end infinite;
-}
-</style>
-I'm an enthusiastic Cyber Security student at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology with a passion for technology, web development, and design. I'm currently exploring the fascinating world of AI-driven marketing and e-commerce, and I'm always eager to learn and collaborate on exciting projects.
-
+ 
 ## 🎓 Education
 
 **B.S. in Cyber Security**  
