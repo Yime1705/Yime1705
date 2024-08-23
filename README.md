@@ -7,18 +7,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/Yime1705">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yime1705&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/yime1705">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yime1705&layout=compact&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yime1705&show_icons=true&theme=radical" alt="Yashfa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yime1705&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yime1705">
-    <img align="center" src="https://streak-stats.demolab.com/?user=Yime1705&theme=radical" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Yime1705&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 ## Languages and Tools ⚒️
