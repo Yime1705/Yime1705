@@ -4,15 +4,27 @@
   </a>
 </p>
  
-## 🎓 Education
 
-**B.S. in Cyber Security**  
-_Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, KPK_  
-
-
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=radical)](https://git.io/streak-stats)
 ![Yashfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/YourGitHubUsername">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/YourGitHubUsername">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/YourGitHubUsername">
+    <img align="center" src="https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=radical" />
+  </a>
+</p>
 
 ## Languages and Tools ⚒️
 
