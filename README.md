@@ -8,12 +8,11 @@
 
 **B.S. in Cyber Security**  
 _Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, KPK_  
-**Expected Graduation**: September 2027
 
-**Related Coursework**:  
-- Object-Oriented Programming  
-- Statistics and Probability  
-- Differential Equations and Linear Algebra  
+
+![Yashfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+
 
 ## Languages and Tools ⚒️
 
